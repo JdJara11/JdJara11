@@ -3,11 +3,7 @@ Junior Software Developer with knowledge of JavaScript, React.js, Java, Python, 
 
 
 ## 🌐 Socials:
-<p align="left">
-  <a href="www.linkedin.com/in/juan-david-jaramillo-dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/juan-david-jaramillo-dev/)
 
 # 💻 Tech Stack:
 <h1>Languages:</h1>
