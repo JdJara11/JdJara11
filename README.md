@@ -8,21 +8,15 @@ Junior Software Developer with knowledge of JavaScript, React.js, Java, Python, 
 # 💻 Tech Stack:
 <h1>Languages:</h1>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,py,js" />
-  </a>
 </p>
 <h1>Frameworks:</h1>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,astro,spring" />
-  </a>
 </p>
 <h1>Other Skills:</h1>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,css,html" />
-  </a>
 </p>
 
 # 📊 GitHub Stats:
